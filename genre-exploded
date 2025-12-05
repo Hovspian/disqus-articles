@@ -1,0 +1,78 @@
+<head>
+  <meta property="og:image" content="https://www.destructoid.com/wp-content/uploads/2025/05/could-there-be-a-sequel-for-stardew-valley.jpg?w=1200">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    a {
+      color: #2e9fff;
+    }
+  </style>
+</head>
+<body>
+  <article>
+      <div id="article-header">
+          <h1>
+              This genre exploded on Steam in 2025 and proves we’re still resisting our grim reality
+          </h1>
+          <h2>
+            I doubt it will slow down anytime soon.
+          </h2>
+      </div>
+
+      <img src="https://www.destructoid.com/wp-content/uploads/2025/05/could-there-be-a-sequel-for-stardew-valley.jpg?w=1200" width="600"/>
+
+      <p>Cozy games in 2025 almost doubled in number on Steam, according to SteamDB. This year alone saw 543 games released with the Cozy tag, compared to 698 published before 2025.</p>
+
+      <p>The farming and life simulator genres, which have some overlap with the cozy game aesthetic, also had the most yearly Steam releases in 2025, with 350 and 966 games, respectively.</p>
+      
+      <p>While “cozy” might make you think that every game is much like the chill wholesomeness of Stardew Valley or Palia, this style of game has expanded into strategy in Backpack Battles, idlers like Keep on Mining, and even crime in Cash Cleaner Simulator. Games from previous years like Farming Simulator 25, Sky: Children of the Light, and Power Wash Simulator still see thousands of players every day.</p>
+      
+      <p>It’s almost inevitable to think about what cozy games actually are, since they’re not only about happy, colorful worlds anymore, and why they’re expanding so fast.</p>
+      
+      <p>Cozy games are about abundance</p>
+      
+      <p>I’m a lapsed chemist, so I enjoy looking into scientific papers for answers to my questions. Game studies have luckily discussed cozy games a lot, and they mostly agree that these titles present abundance, safety, and softness.</p>
+      
+      <p>As explained in a 2024 study published on Replay, The Polish Journal of Game Studies, these three features essentially mean that cozy games have worlds where danger and risk don’t exist, resource needs are easily met, and developments are slow enough to make you feel comfortable and stress-free.</p>
+      
+      <p>That’s why cozy games often have that cartoony, colorful, and happy vibe that makes it much easier to convey all these features, which is much harder to do in dark, realistic games. They are, essentially, the perfect opposite of survival games, where everything is a threat, resource management is key, and you’re usually on high alert because the environment is inhospitable and changing fast.</p>
+      
+      <p>Since Steam game tags aren’t an exact science, not all cozy games will have all of these features exactly as they are. Backpack Battles, for instance, is an autobattler PvP game, so you always risk losing and dying to an opponent, but it lacks the timer between combats that makes autobattlers like Teamfight Tactics much more stressful. Stardew Valley doesn’t have an abundance of resources all the time, but it’s a game you can’t really lose, even if you die a lot.</p>
+      
+      <p>Our reality sucks</p>
+      
+      <p>I don’t want to be nihilistic, but the real world in 2025 sucks. People are more depressed globally, recession fears are still real, our money is worth a lot less than it used to, and over 1 million people lost their jobs in the U.S. alone. And even in niche areas, like gaming journalism, it hurts to remember how many of my colleagues were laid off in the last 12 months.</p>
+      
+      <p>In short, many of us are closer to living in Rust than on Coral Island.</p>
+      
+      <p>While video games are entertainment, they are a form of escapism. Consciously or not, we all feel like we’re living in a completely different reality when we run Pokémon or Elden Ring, and it helps us disconnect from the problems in our lives.</p>
+      
+      <p>Cozy games, which usually depict living lives in comfortable scenarios like abundant farms or prosperous cities, can be played as a form of avoidance and obtaining exactly what we’re missing in real life.</p>
+      
+      <p>Cozy games are a way to resist</p>
+      
+      <p>My first instinct when contrasting cozy games with our grim reality was to see the growth of cozy games as mere escapism and avoidance. But the paper I’ve mentioned above changed my point of view.</p>
+      
+      <p>In a world that demands so much of us, playing a game that doesn’t correlate with the violence and scarcity we see every day can be regenerative. According to the paper, these games evoke “such feelings as affection, curiosity, and commitment that not only provide players with rest but also inspire them to be mindful towards natural environments outside of the game context.”</p>
+      
+      <p>Essentially, cozy games remind us that it’s ok to rest, slow down, and care for ourselves and others, even when things are dire. At the end of the day, all we have is our community and the people we’ve connected with. This growing trend of developers and players resorting to cozy games shows how much we want to reconnect with these feelings, and how gaming can help us on the way.</p>
+  </article>
+
+  <div id="disqus_thread"></div>
+  <script>
+  /**
+  *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+  *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
+  */
+  var disqus_config = function () {
+    this.page.url = window.location;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = 'genre-exploded'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+  };
+  (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://hovseptestrealm.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+  })();
+  </script>
+  <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</body>
